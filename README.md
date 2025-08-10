@@ -7,10 +7,10 @@
 This repository contains an interactive HR analytics dashboard designed to visualize key workforce metrics, including total employees, attrition rate, average age, gender breakdown, education background, and salary distribution. The dashboard helps HR teams understand staff composition and pinpoint retention or performance trends.
 
 ## -Datasets Used
-<a href="">Hr Dataset</a>
+<a href="https://github.com/KaranMondal/HR-Analytics---Data-Analysis/blob/main/HR_Analytics.csv">Hr Dataset</a>
 
 ## -DashBoard
-<a href="">DashBoard</a>
+<a href="https://github.com/KaranMondal/HR-Analytics---Data-Analysis/blob/main/Final%20Dashboard.png">DashBoard</a>
 
 ## -Features
 Employee & Attrition Data: See total staff, attrition count, rate, and average tenure
