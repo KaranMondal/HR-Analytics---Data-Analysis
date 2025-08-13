@@ -19,7 +19,7 @@ Role & Salary Insights: Track job roles, average salaries, and tenure across pos
 Visuals: Pie charts, bar charts, salary slabs, and dynamic KPIs
 
 ## -Technologies
-Built with Power BI / Tableau / Excel (adapt per your tools)
+Built with Power BI / Excel 
 Rich interactive visualizations for deep HR insights
 
 ## -Usage
